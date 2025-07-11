@@ -168,3 +168,17 @@ img{
         border-radius: 0 0 10px 10px;
     }
 }
+
+.attribution{ 
+    font-family: var(--primaryFont);
+    font-size: 16px; 
+    text-align: center; 
+    margin-top: 40px;
+}
+
+.attribution a{ 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+    font-family: var(--secondaryFont);
+    font-weight: 600;
+}
