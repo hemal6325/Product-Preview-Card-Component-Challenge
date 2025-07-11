@@ -26,8 +26,8 @@ This is a solution to the [Product Preview Card Component Challenge](https://www
 
 ### Links
 
-- Solution URL: (https://github.com/hemal6325/Recipe-Page-Challenge)
-- Live Site URL: (https://hemal6325.github.io/Recipe-Page-Challenge/)
+- Solution URL: (https://github.com/hemal6325/Product-Preview-Card-Component-Challenge)
+- Live Site URL: (https://hemal6325.github.io/Product-Preview-Card-Component-Challenge/)
 
 ## My Process
 I built this project using HTML and CSS, focusing on layout design and responsive styling. Through it, I learned Flexbox, Semantic Markup, and how to create visually balanced components.
